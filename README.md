@@ -1,11 +1,11 @@
-About r-zipfr
-=============
+About r-zipfr-feedstock
+=======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-zipfr-feedstock/blob/main/LICENSE.txt)
 
 Home: https://zipfR.R-Forge.R-project.org/
 
 Package license: GPL-3.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-zipfr-feedstock/blob/main/LICENSE.txt)
 
 Summary: Statistical models and utilities for the analysis of word frequency distributions. The utilities include functions for loading, manipulating and visualizing word frequency data and vocabulary growth curves.  The package also implements several statistical models for the distribution of word frequencies in a population.  (The name of this package derives from the most famous word frequency distribution, Zipf's law.)
 
